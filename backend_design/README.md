@@ -1,0 +1,1 @@
+This folder contains database structure and backend planning.
