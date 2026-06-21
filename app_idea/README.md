@@ -1,0 +1,1 @@
+This folder contains feature ideas and planning.
