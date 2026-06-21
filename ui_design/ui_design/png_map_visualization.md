@@ -135,3 +135,4 @@ For each province store:
 - Top Issues
 
 This data powers the map visualization and analytics system.
+
